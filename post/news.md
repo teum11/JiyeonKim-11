@@ -6,7 +6,11 @@
 [202009] [<The Eternal Chord - Mutatis Mutandis>[Touch # Spire 7.1]](https://theeternalchord.bandcamp.com/album/mutatis-mutandis) 오르간 리믹스 음반 참여<br> 
 [202009] [<Third Garden>](https://thirdgarden.space) 음악
 [20200704][<고래는 왜 저녁 바다로 돌아갔을까?(Why Did Whales Return To The Night Sea ?)>](https://youtu.be/Swpcasw0EJ0), 사운드, 울산 북구아트스튜디오
+[202006] [<Long Decay and New Earth>](http://www.tapeworm.org.uk/ttw129.html)[The Tapeworm] 발매<br>
 [202005] [REVEIL, 라이브 사운드 워크](https://www.youtube.com/watch?v=RrI8Ued0lYU&t=45s) , 웨더리포트 참여 
+
+---
+
 [20191206] &lt;dichterliebe:detachment&gt;(연출 구자민), 오디오가이<br>
 [20190922] 11min &lt;snow&gt; 발매공연, 적도<br>
 [20190920] 11min &lt;snow&gt; 발매공연, 스튜디오로그<br>
