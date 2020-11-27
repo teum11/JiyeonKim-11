@@ -1,6 +1,6 @@
 [202011-12] [제로의 예술, <자기기록: 듣기와 쓰기>](https://0makes0.com/program/1/) 워크숍 기획 및 진행, 여성기술랩<br>
 [202011] 마포문화재단 <사운드, 텍스쳐, 샘플링> 워크숍 기획 및 진행<br>
-[20201024] <워크숍을 위한 워크숍> 중 <콜렉티브 리스닝: 듣기를 증폭하는 쓰기> 워크숍 기획 및 진행, 아디<br>
+[20201024] <콜렉티브 리스닝: 듣기를 증폭하는 쓰기> 워크숍 기획 및 진행, 아디<br>
 [20201008] [1920 기억극장 <황금광시대>, 뮌 <픽션 픽션 논픽션>](http://ilmin.org/kr/exhibition/1920-memory-theater/), 작곡 및 피아노 연주, 일민미술관<br> 
 [202009] Manifesta Marseille 13 « Des mondes au creux de l’oreille (Worlds at your ear tips) », 웨더리포트, 문화공간 양, 제주 라이브 스트림  
 [202009] [<The Eternal Chord - Mutatis Mutandis>[Touch # Spire 7.1]](https://theeternalchord.bandcamp.com/album/mutatis-mutandis) 오르간 리믹스 음반 참여<br> 
