@@ -1,6 +1,6 @@
 <!--글 Writings<br><br>-->
 
-[202006] Dear Customer, 진광, Long Decay and New Earth 음반 국내 소개글(../pdf/Dear customer, lim jin-kwang.pdf)<br>
+[202006] Dear Customer, 진광, Long Decay and New Earth 음반 국내 소개글(../pdf/Dearcustomer,lim jin-kwang.pdf)<br>
 [[20170506] 11 - 소리로 세계를 기억한다는 것, 전대한, 웨이브](../pdf/sorisegye_weiv.pdf)<br>
 [[20170203] 반쯤 열린 미술관 작가 인터뷰, 권순우](../pdf/half-opened_door_interview.pdf)<br>
 [[201701] 소리사이, 옥다혜, 미술세계](../pdf/sorisaii_misul.pdf)<br>
