@@ -2,6 +2,7 @@
 [20210521] <a href="https://www.diaff.org/kor/addon/00000001/program_view.asp?m_idx=101303&QueryYear=2021&c_idx=69&QueryType=B&QueryStep=2">집에서, 집으로(감독 지혜원), 음악, 디아스포라영화제 다큐멘터리 장편부문 상영</a><br>
 [20210513] <a href="http://samilro.com/?p=507">미분피아노, 참여 작곡가, 삼일로창고극장</a><br>
 [20210508] 죽은아이들을 위한 노래: 안녕, 사운드 퍼포먼스, Art Space 3<br>
+[20210506] <a href="https://www.mixcloud.com/camp_fr/we-are-happened-06th-may-2021/">We Are Happened</a>(Radio Host: Lucia H Chung), Stream excerpts 
 [20210502] <a href="http://streams.soundtent.org/2021/projects/a-sound-poem-walk">REVEIL Day2, A sound-poem-walk, 라이브 스트리밍, 구산근린공원</a><br> 
 [20210501] <a href="http://streams.soundtent.org/2021/projects/waving-with-hollows">REVEIL Day1, waving with hollows, du hwal - two bows, 라이브 스트리밍 퍼포먼스</a><br> 
 [20210429] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=4489&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=22&reUrl=%2Fdb%2FsectionList%2Easp%3FFS%5FIDX%3D223%26SS%5FIDX%3D%26sectionList%3D%2523%2523">낫아웃(감독 이정곤), 음악, 전주영화제 한국경쟁부문 상영</a><br>
