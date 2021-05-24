@@ -1,3 +1,11 @@
+[20210521] [집에서, 집으로](감독 지혜원)(https://www.diaff.org/kor/addon/00000001/program_view.asp?m_idx=101303&QueryYear=2021&c_idx=69&QueryType=B&QueryStep=2), 영화음악, 디아스포라영화제 상영
+[20210513] [미분피아노](http://samilro.com/?p=507), 참여 작곡가, 삼일로창고극장
+[20210508] [죽은아이들을 위한 노래: 안녕], 퍼포먼스 , Art Space 3
+[20210502] [REVEIL Day2] A sound-poem-walk(http://streams.soundtent.org/2021/projects/a-sound-poem-walk), 라이브 스트리밍, 구산근린공원 
+[20210501] [REVEIL Day1] waving with hollows(http://streams.soundtent.org/2021/projects/waving-with-hollows), du hwal - two bows, 라이브 스트리밍 연주 
+
+---
+
 [202011-12] [제로의 예술, <자기기록: 듣기와 쓰기>](https://0makes0.com/program/1/) 워크숍 기획 및 진행, 여성기술랩<br>
 [202011] 마포문화재단 <사운드, 텍스쳐, 샘플링> 워크숍 기획 및 진행<br>
 [20201024] <콜렉티브 리스닝: 듣기를 증폭하는 쓰기> 워크숍 기획 및 진행, 아디<br>
