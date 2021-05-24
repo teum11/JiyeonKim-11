@@ -4,7 +4,7 @@
 [20210508] 죽은아이들을 위한 노래: 안녕, 사운드 퍼포먼스 , Art Space 3<br>
 [20210502] REVEIL Day2 <a href="http://streams.soundtent.org/2021/projects/a-sound-poem-walk">A sound-poem-walk</a>, 라이브 스트리밍, 구산근린공원<br> 
 [20210501] REVEIL Day1 <a href="http://streams.soundtent.org/2021/projects/waving-with-hollows">waving with hollows</a>, du hwal - two bows, 라이브 스트리밍 퍼포먼스<br> 
-[20210429] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=4489&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=22&reUrl=%2Fdb%2FsectionList%2Easp%3FFS%5FIDX%3D223%26SS%5FIDX%3D%26sectionList%3D%2523%2523">낫아웃</a>(감독 이정곤), 음악, 전주영화제 한국경쟁부문 
+[20210429] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=4489&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=22&reUrl=%2Fdb%2FsectionList%2Easp%3FFS%5FIDX%3D223%26SS%5FIDX%3D%26sectionList%3D%2523%2523">낫아웃</a>(감독 이정곤), 음악, 전주영화제 한국경쟁부문 상영
 
 ---
 
