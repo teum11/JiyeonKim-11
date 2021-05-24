@@ -1,4 +1,4 @@
-[20210521] [집에서, 집으로](감독 지혜원)("a ref=https://www.diaff.org/kor/addon/00000001/program_view.asp?m_idx=101303&QueryYear=2021&c_idx=69&QueryType=B&QueryStep=2"), 영화음악, 디아스포라영화제 상영<br>
+[20210521] [집에서, 집으로](감독 지혜원)<a href="https://www.diaff.org/kor/addon/00000001/program_view.asp?m_idx=101303&QueryYear=2021&c_idx=69&QueryType=B&QueryStep=2"), 영화음악, 디아스포라영화제 상영<br>
 [20210513] [미분피아노](http://samilro.com/?p=507), 참여 작곡가, 삼일로창고극장<br>
 [20210508] [죽은아이들을 위한 노래: 안녕], 사운드 퍼포먼스 , Art Space 3<br>
 [20210502] [REVEIL Day2] A sound-poem-walk(http://streams.soundtent.org/2021/projects/a-sound-poem-walk), 라이브 스트리밍, 구산근린공원<br> 
