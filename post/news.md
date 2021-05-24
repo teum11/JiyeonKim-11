@@ -5,7 +5,7 @@
 [20210506] <a href="https://www.mixcloud.com/camp_fr/we-are-happened-06th-may-2021/">We Are Happened(radio host: Lucia H Chung), stream excerpts of 'A sound-poem-walk' and 'waving with hollows'</a><br> 
 [20210502] <a href="http://streams.soundtent.org/2021/projects/a-sound-poem-walk">REVEIL Day2, A sound-poem-walk, 라이브 스트리밍, 구산근린공원</a><br> 
 [20210501] <a href="http://streams.soundtent.org/2021/projects/waving-with-hollows">REVEIL Day1, waving with hollows, du hwal - two bows, 라이브 스트리밍 퍼포먼스</a><br> 
-[20210429] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=4489&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=22&reUrl=%2Fdb%2FsectionList%2Easp%3FFS%5FIDX%3D223%26SS%5FIDX%3D%26sectionList%3D%2523%2523">낫아웃(감독 이정곤), 음악, 전주영화제 한국경쟁부문 상영</a><br>
+[20210429] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=4489&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=22&reUrl=%2Fdb%2FsectionList%2Easp%3FFS%5FIDX%3D223%26SS%5FIDX%3D%26sectionList%3D%2523%2523">낫아웃(감독 이정곤), 음악, 전주국제영화제 한국경쟁부문 상영</a><br>
 
 ---
 [202012] <a href="http://wovenart.works/scores">Woven Scores(curated by 
