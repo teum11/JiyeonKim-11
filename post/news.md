@@ -12,7 +12,7 @@
 [20201008] [1920 기억극장 '황금광시대', 뮌 '픽션 픽션 논픽션'](http://ilmin.org/kr/exhibition/1920-memory-theater/), 작곡 및 피아노 연주, 일민미술관<br> 
 [202009] Manifesta Marseille 13 « Des mondes au creux de l’oreille (Worlds at your ear tips) », 웨더리포트, 문화공간 양, 제주 라이브 스트림<br>
 [202009] [The Eternal Chord - Mutatis Mutandis(Touch # Spire 7.1)](https://theeternalchord.bandcamp.com/album/mutatis-mutandis), 오르간 리믹스 음반 참여<br> 
-[202009] [Third Garden](https://thirdgarden.space) 음악<br>
+[202009] [Third Garden](https://thirdgarden.space), 음악<br>
 [20200704] [고래는 왜 저녁 바다로 돌아갔을까? Why Did Whales Return To The Night Sea?](https://youtu.be/Swpcasw0EJ0)(이미지 디렉팅 염지희), 사운드, 울산 북구아트스튜디오<br>
 [202006] [Long Decay and New Earth(The Tapeworm)](http://www.tapeworm.org.uk/ttw129.html) 발매<br>
 [202005] [REVEIL] <a href="https://www.youtube.com/watch?v=RrI8Ued0lYU&t=45s">라이브 사운드 워크</a>, 웨더리포트 참여<br> 
