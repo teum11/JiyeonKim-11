@@ -7,7 +7,8 @@
 [20210429] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=4489&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=22&reUrl=%2Fdb%2FsectionList%2Easp%3FFS%5FIDX%3D223%26SS%5FIDX%3D%26sectionList%3D%2523%2523">낫아웃(감독 이정곤), 음악, 전주영화제 한국경쟁부문 상영</a><br>
 
 ---
-
+[202012] <a href="http://wovenart.works/scores">woven scores zine(curated by 
+Alisa Oleva)<a/>, Amplified Breath on String, score</a><br>
 [202011-12] [제로의 예술, <자기기록: 듣기와 쓰기>](https://0makes0.com/program/1/) 워크숍 기획 및 진행, 여성기술랩<br>
 [202011] 마포문화재단 <사운드, 텍스쳐, 샘플링> 워크숍 기획 및 진행<br>
 [20201024] <콜렉티브 리스닝: 듣기를 증폭하는 쓰기> 워크숍 기획 및 진행, 아디<br>
