@@ -2,7 +2,7 @@
 [20210803] <a href="http://www.wooranfdn.org/program/sisun_view.jsp?idx=165">스크리닝 프로젝트: 이야기꾼 SCREENING PROJECT: THE STORYTELLER, 생명연습 스크리닝, 우란문화재단 우란2경</a><br>
 [20210601] <a href ="https://www.mmca.go.kr/pr/cultureDetail.do?edId=202106090002263">반향하는 동사들 Verb, Reverb (기획 김신재), 리스닝 세션: 크게 듣기 (공동작업 이강일), 국립현대미술관 서울관 </a><br>
 [20210521] <a href="https://www.diaff.org/kor/addon/00000001/program_view.asp?m_idx=101303&QueryYear=2021&c_idx=69&QueryType=B&QueryStep=2">집에서, 집으로(감독 지혜원), 음악, 디아스포라영화제 다큐멘터리 장편부문 상영</a><br>
-[20210513] <a href="https://www.youtube.com/watch?v=U9bAwbrKX7I&t=126s">미분피아노, 참여 작곡가, 삼일로창고극장</a><br>
+[20210513] <a href="https://www.youtube.com/watch?v=U9bAwbrKX7I&t=126s">미분 피아노, 참여 작곡가, 삼일로 창고극장</a><br>
 [20210508] 죽은아이들을 위한 노래: 안녕, 사운드 퍼포먼스, Art Space 3<br>
 [20210506] <a href="https://www.mixcloud.com/camp_fr/we-are-happened-06th-may-2021/">We Are Happened(radio host: Lucia H Chung), stream excerpts of 'A sound-poem-walk' and 'waving with hollows'</a><br> 
 [20210502] <a href="http://streams.soundtent.org/2021/projects/a-sound-poem-walk">REVEIL Day2, dawn chorus stream from Gusan Park and A sound-poem-walk, 라이브 스트리밍, 구산근린공원</a><br> 
