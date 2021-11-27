@@ -1,4 +1,4 @@
-[20211124] 기후위기 시대의 예술을말하다, 발제, 녹색전환연구소, 한국예술문화위원회  <br>
+[20211124] <a href="https://greenduck.kr/post/dR412K0qhaQTeJL0C6RX">기후위기 시대의 예술을말하다, 발제, 녹색전환연구소, 한국예술문화위원회</a><br>
 [20211105] <a href="http://ujeongguk.com/earth-district-2021/">지구지구대, 地球地區隊, Members of Earth District, 전시, 탈영역우정국</a><br> 
 [20211105] <a href="https://teum11.github.io/JiyeonKim-11/pdf/rehearsal_print.pdf">끝난공연(안무 위성희), 사운드 텍스트, 을지공간 </a><br>
 [20210803] <a href="http://www.wooranfdn.org/program/sisun_view.jsp?idx=165">스크리닝 프로젝트: 이야기꾼 SCREENING PROJECT: THE STORYTELLER, 생명연습 스크리닝, 우란문화재단 우란2경</a><br>
