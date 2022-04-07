@@ -1,5 +1,5 @@
 <!--글 Writings<br><br>-->
-
+ 
 [[2020] Dear Customer, 진광, Long Decay and New Earth 음반 국내 소개글](../pdf/Dear%20customer%2C%20lim%20jin-kwang.pdf)<br>
 [[2017] 11 - 소리로 세계를 기억한다는 것, 전대한, 웨이브](../pdf/sorisegye_weiv.pdf)<br>
 [[2017] 반쯤 열린 미술관 작가 인터뷰, 권순우](../pdf/half-opened_door_interview.pdf)<br>
@@ -7,7 +7,7 @@
 [[2016] 소리는 어디에서 오는가, 조용미, 웨더리포트](../pdf/sorifromwhere_weatherreport.pdf)<br>
 [[2016] 소리로 나누는 대화, 조은비, 웨더리포트](../pdf/soriconversation_weatherreport.pdf)<br>
 
---
+---
 
 [[2021] 끝난 공연의 리허설, 김지연, 을지공간(기획 및 진행 위성희)](../pdf/rehearsal_print.pdf)<br>
 [[2014] 소리의 통로 - 에스토니아 MoKS 레지던스 참가기, 김지연, 아르코웹진](../pdf/sc.pdf)<br>
