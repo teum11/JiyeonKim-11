@@ -1,7 +1,5 @@
-[20220128] <a href="https://www.youtube.com/watch?v=MoyaBcfa_sU&feature=emb_title"><생명연습> 발간</a><br>
----
-
-[20211126] <a href="http://siff.kr/films/%EC%A7%91%EC%97%90%EC%84%9C-%EC%A7%91%EC%9C%BC%EB%A1%9C/">집에서, 집으로(감독 지혜원), 음악, 서울독립영화제 본선장편경쟁</a><br>
+[20220128] <a href="https://www.youtube.com/watch?v=MoyaBcfa_sU&feature=emb_title"><생명연습> 발간, 우란문화재단</a><br>
+  
 [20211124] <a href="https://greenduck.kr/post/dR412K0qhaQTeJL0C6RX">기후위기 시대의 예술을 말하다, 발제, 녹색전환연구소, 한국예술문화위원회</a><br>
 [20211105] <a href="http://ujeongguk.com/earth-district-2021/">지구지구대, 地球地區隊, Members of Earth District, 전시, 탈영역우정국</a><br> 
 [20211105] <a href="https://teum11.github.io/JiyeonKim-11/pdf/rehearsal_print.pdf">끝난공연(안무 위성희), 사운드 텍스트, 을지공간 </a><br>
