@@ -78,7 +78,7 @@ Alisa Oleva)<a/>, Amplified Breath on String, instructional score</a><br>
 [20170528] 박지하, 11, 벨로주<br> 
 [20170504] [사운드캠프, 제주 교래곶자왈](https://vimeo.com/337178632)<br>
 [20170429] 사운드캠프, 문래동 뉴마트<br> 
-[20170429] 『&lt;데이터 감각, 시간 감각&gt;-&lt;투명한 음악&gt;』 리뷰북 출간<br>
+[20170429] 『데이터 감각, 시간 감각 - 투명한 음악 리뷰북』 출간<br>
 [20170401] 11 &lt;Transparent Music&gt; 앨범발매 공연, 스튜디오로그<br>
 [20170324] ToBeContinued, stazionediopolo<br>
 [20170309] [11, &lt;Transparent Music&gt; 발매](http://poclanos.com/station/transparent-music/)<br>
