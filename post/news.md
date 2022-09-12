@@ -1,5 +1,5 @@
-[20220504] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294121576">불가능한 목소리 2, 림보프레스</a><br>
-[20220128] <a href="https://www.youtube.com/watch?v=MoyaBcfa_sU&feature=emb_title">생명연습 발간, 우란문화재단</a><br>  
+[20220504] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294121576">『불가능한 목소리 2』, 「사운드 노트」, 림보프레스</a><br>
+[20220128] <a href="https://www.youtube.com/watch?v=MoyaBcfa_sU&feature=emb_title">『생명연습』 발간, 우란문화재단</a><br>  
 
 ---
 
@@ -78,7 +78,7 @@ Alisa Oleva)<a/>, Amplified Breath on String, instructional score</a><br>
 [20170528] 박지하, 11, 벨로주<br> 
 [20170504] [사운드캠프, 제주 교래곶자왈](https://vimeo.com/337178632)<br>
 [20170429] 사운드캠프, 문래동 뉴마트<br> 
-[20170429] &lt;데이터 감각, 시간 감각&gt;-&lt;투명한 음악&gt; 리뷰북 출간<br>
+[20170429] 『&lt;데이터 감각, 시간 감각&gt;-&lt;투명한 음악&gt;』 리뷰북 출간<br>
 [20170401] 11 &lt;Transparent Music&gt; 앨범발매 공연, 스튜디오로그<br>
 [20170324] ToBeContinued, stazionediopolo<br>
 [20170309] [11, &lt;Transparent Music&gt; 발매](http://poclanos.com/station/transparent-music/)<br>
@@ -95,7 +95,7 @@ Alisa Oleva)<a/>, Amplified Breath on String, instructional score</a><br>
 [20160529] Sense of Globe Conference,Tokyo University Natural Environmental studies<br>
 [20160430] 라이브 스트리밍 제주, reveil<br>
 [20160111] [업사이클 라운드업 &lt;선유도-소리의정원&gt; 상영, 문래MAP 지원사업, 문래예술공장](https://vimeo.com/165497624)<br>
-[201601] 웨더리포트(2015년 8-12월, 제주) 발간<br>
+[201601] 『웨더리포트(2015년 8-12월, 제주)』 발간<br>
 
 ---
 
