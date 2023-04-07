@@ -1,5 +1,5 @@
 
-[[2023] sound memoir - dripping and ringing](../pdf/Jiyeon Kim - sound memoir - dripping and ringing - 사운드노트_소리 회고 - 떨어지는 울리는.pdf)<br>
+[[2023] sound memoir - dripping and ringing](../pdf/sound memoir - dripping and ringing_sound note.pdf)<br>
 [[2021] 끝난 공연의 리허설, 김지연, 을지공간(기획 및 진행 위성희)](../pdf/rehearsal_print.pdf)<br>
 [[2019] 음악의 경계, 경계의 음악 - 라이브 스트리밍 작업을 중심으로, 성북구민여성회관](../pdf/musicontheborder.pdf)<br> 
 [[2016] DHRA2016 Weather Report and Transparent Music, Brighton University](../pdf/DHRA2016_brightonUni.pdf)<br>
