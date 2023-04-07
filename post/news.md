@@ -1,3 +1,8 @@
+[20230325] <a href="https://11ep.bandcamp.com/album/sound-memoir-dripping-and-ringing-3">sound memoir - dripping and ringing 디지털 발매</a><br>  
+
+---
+
+[20221007] <a href="http://kimchongyung.com/archives/exhibition/%ec%98%a4%eb%8a%98%ec%9d%98-%ec%9e%91%ea%b0%80-%eb%ae%8c-mioon-%e3%80%8a%ec%98%a4%ed%9b%84-3%ec%8b%9c%ec%9d%98-%ec%b9%98%ec%a6%88%ec%bc%80%ec%9d%b4%ed%81%ac%ec%99%80-%ec%b6%94%eb%a6%ac%ea%b7%b9">오후 3시의 치즈케이크와 추리극(작가 뮌), 사운드, 김종영미술관</a><br>
 [20220504] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294121576">『불가능한 목소리 2』, 「사운드 노트」, 림보프레스</a><br>
 [20220128] <a href="https://www.youtube.com/watch?v=MoyaBcfa_sU&feature=emb_title">『생명연습』 발간, 우란문화재단</a><br>  
 
