@@ -1,3 +1,4 @@
+[20230420] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=610&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">나의 사운드 작업 노트 : 영화와 음악의 동행, 충무로영상센터 오!재미동</a><br>
 [20230325] <a href="https://11ep.bandcamp.com/album/sound-memoir-dripping-and-ringing-3">sound memoir - dripping and ringing 디지털 발매</a><br>  
 
 ---
