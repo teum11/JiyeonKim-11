@@ -1,5 +1,5 @@
 [20230420] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=610&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">나의 사운드 작업 노트 : 영화와 음악의 동행, 충무로영상센터 오!재미동</a><br>
-[20230416] <a href="http://koreandocumentary.net/docstable_detail.asp?tbl=DOCS_TABLE&gotopage=1&board_idx=50">다큐클래스: 듣기 경험으로서의 다큐멘터리 - '김군'과 '집에서, 집으로'의 음악 연출 사례를 중심으로, 다큐멘터리네트워크, 홍대 상상마당</a><br>  
+[20230416] <a href="http://koreandocumentary.net/docstable_detail.asp?tbl=DOCS_TABLE&gotopage=1&board_idx=50">다큐클래스: 듣기 경험으로서의 다큐멘터리 - '김군'과 '집에서, 집으로'의 음악 연출 사례를 중심으로, 다큐멘터리네트워크, 홍대 상상마당</a><br> 
 [20230325] <a href="https://11ep.bandcamp.com/album/sound-memoir-dripping-and-ringing-3">sound memoir - dripping and ringing</a><br>  
 
 ---
