@@ -1,5 +1,5 @@
 [20240403] 제주MBC 4.3특집 다큐멘터리 사죄의 완성(연출 강기웅), 음악감독<br> 
-[20240401] 11 정규 2집 [at home] 발매<br> 
+[20240401] <a href="https://11ep.bandcamp.com/album/at-home">11 정규 2집 [at home] 발매</a><br> 
 [202402]  <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334861916&start=slayer">『하이퍼객체: 세계의 끝 이후의 철학과 생태학』 (티머시 모턴 지음, 김지연 번역) 출간, 현실문화연구</a><br>
 
 ---
