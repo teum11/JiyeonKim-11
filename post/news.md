@@ -1,4 +1,3 @@
-[20240511] 11, [at home] 발매 단독 공연, 스튜디오 로그<br> 
 [20240502] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=5382&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=25&reUrl=%2Fdb%2FsectionList%5Fmany%2Easp%3FFS%5FIDX%3D287">목소리들(감독 지혜원), 음악감독, 전주국제영화제 코리안시네마 섹션</a><br> 
 [20240403] <a href="https://www.youtube.com/watch?v=ngNpLWR1oVU">4.3특집 다큐멘터리 사죄의 완성(연출 강기웅), 음악감독, 제주MBC</a><br> 
 [20240401] <a href="https://11ep.bandcamp.com/album/at-home">11 정규 2집 [at home] 발매</a><br> 
