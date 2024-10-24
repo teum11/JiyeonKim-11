@@ -1,4 +1,4 @@
-[20241024] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=640&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">'듣는 영화 : 영화 연출을 위한 청각적 발상', 강사, 충무로영상센터 오!재미동</a><br> 
+[20241024] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=640&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">듣는 영화 : 영화 연출을 위한 청각적 발상, 충무로영상센터 오!재미동</a><br> 
 [20241012] <a href="https://www.youtube.com/watch?v=IbgEZvBq_O8">음 몸 집, 연출 및 연주, 통의동 클래식</a><br>
 [20241001] <a href="https://www.artbava.com/exhibit/%EC%96%B8%EC%96%B4%EC%9D%98-%EB%91%98%EB%A0%88-the-edge-of-language/">언어의 둘레 (기획 이소임), 참여작가, TINC</a><br>
 [20240801] <a href="https://extra.resonance.fm/episodes/injazero-57-jiyeon-kim-guest-mix-2024-08-01"> Injazero #57-Jiyeon Kim Guest Mix, Resonance Extra</a><br>
