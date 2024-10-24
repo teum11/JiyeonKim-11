@@ -1,6 +1,6 @@
 [20241024] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=640&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">'듣는 영화 : 영화 연출을 위한 청각적 발상', 강사, 충무로영상센터 오!재미동</a><br> 
-[20241012] <a hre="https://www.youtube.com/watch?v=IbgEZvBq_O8>음 몸 집, 연출 및 연주, 통의동 클래식</a><br>
-[20241001] 언어의 둘레 (기획 이소임), 참여작가, TINC
+[20241012] <a href="https://www.youtube.com/watch?v=IbgEZvBq_O8">음 몸 집, 연출 및 연주, 통의동 클래식</a><br>
+[20241001] <a href="https://www.artbava.com/exhibit/%EC%96%B8%EC%96%B4%EC%9D%98-%EB%91%98%EB%A0%88-the-edge-of-language/">언어의 둘레 (기획 이소임), 참여작가, TINC
 [20240801] <a href="https://extra.resonance.fm/episodes/injazero-57-jiyeon-kim-guest-mix-2024-08-01"> Injazero #57-Jiyeon Kim Guest Mix, Resonance Extra</a><br>
 [20240728] <a href="https://www.youtube.com/watch?v=MICKcKUazi4">11 at home 앨범 발매 공연, 스튜디오로그</a><br>
 [20240502] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=5382&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=25&reUrl=%2Fdb%2FsectionList%5Fmany%2Easp%3FFS%5FIDX%3D287">목소리들(감독 지혜원), 음악감독, 전주국제영화제 코리안시네마 섹션, 다큐멘터리상</a><br> 
