@@ -1,4 +1,4 @@
-[20241201] <a href="https://www.youtube.com/watch?v=wwYMZSX7wZA">11 live at home, 라이브 영상</a><br>
+[20241201] <a href="https://www.youtube.com/watch?v=wwYMZSX7wZA">11 live at home, 연주 영상</a><br>
 [20241024] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=640&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">듣는 영화 : 영화 연출을 위한 청각적 발상, 충무로영상센터 오!재미동</a><br> 
 [20241012] <a href="https://www.youtube.com/watch?v=78tpttAQPqk">음 몸 집, 연출 및 연주, 통의동 클래식</a><br>
 [20241006] <a href="https://www.biff.kr/kor/html/program/prog_view.asp?idx=75924&c_idx=406">K-Number(감독 조세영), 음악감독, 부산국제영화제 와이드앵글 섹션</a><br>
