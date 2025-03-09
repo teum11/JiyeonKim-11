@@ -1,6 +1,6 @@
 
 
-[20250322] <a href="">a tempo, 천천히 나아가기, 선곡 및 연주</a><br> 
+[20250322] <a href="">a tempo, 천천히 나아가기, 선곡 및 연주, 스튜디오로그</a><br> 
 
 ---
 [20241201] <a href="https://www.youtube.com/watch?v=wwYMZSX7wZA">11 live at home, 연주</a><br>
