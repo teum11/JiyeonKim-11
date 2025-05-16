@@ -1,5 +1,5 @@
 
-[20250410] <a href="https://ocimuseum.org/portfolio-item/%EC%9D%B4%ED%98%B8%EC%88%98-time-and-machine/">시간과 기계의 틈에서 조각하기 - 이호수 개인전 '시간과 기계' 평론, 글, OCI 미술관 </a><br> 
+[20250410] <a href="https://ocimuseum.org/portfolio-item/%EC%9D%B4%ED%98%B8%EC%88%98-time-and-machine/">시간과 기계의 틈에서 조각하기 - 이호수 개인전 '시간과 기계' 평문, 글, OCI 미술관 </a><br> 
 [20250322] <a href="https://www.youtube.com/watch?v=s4NGHG-hRcY">a tempo, 천천히 나아가기, 선곡 및 연주, 스튜디오로그</a><br> 
 
 ---
