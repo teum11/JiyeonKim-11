@@ -1,5 +1,7 @@
 [20251023] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=2&sq=656&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%222%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">소리의 파편들 : 샘플링으로 시작하는 창의적 사운드 작업, 워크숍 강사, 충무로 오!재미동</a><br>
-[20251019] 모음놀이 Missing Vowels, 창작자, 소닉노마드 페스티벌<br>
+[20251019] 모음놀이 Missing Vowels, 창작자, 소닉 노마드 페스티벌<br>
+[20251003] <a href="https://jiyeonkimreleases.bandcamp.com/album/italian-wire-suites>
+Italian Wire Suites 발매, Ash International </a><br>
 [20250823] <a href="https://wrhome.super.site/works/%eb%88%84%ea%b5%b0%ea%b0%80-%eb%93%a3%ea%b3%a0-%ec%9e%88%ec%96%b4-some-bodies-are-listening-too-2025">웨더리포트, '누군가 듣고 있어'전시, 제주 문화공간 양</a> <br> 
 [20250410] <a href="https://ocimuseum.org/portfolio-item/%EC%9D%B4%ED%98%B8%EC%88%98-time-and-machine/">시간과 기계의 틈에서 조각하기 - 이호수 개인전 '시간과 기계' 평문, 글, OCI 미술관 </a><br> 
 [20250322] <a href="https://www.youtube.com/watch?v=s4NGHG-hRcY">a tempo, 천천히 나아가기, 선곡 및 연주, 스튜디오로그</a><br> 
