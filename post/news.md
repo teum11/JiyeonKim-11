@@ -1,4 +1,4 @@
-[20251023] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=2&sq=656&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%222%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">소리의 파편들 : 샘플링으로 시작하는 창의적 사운드 작업, 워크숍 강사, 충무로 오!재미동</a><br>
+[20251023] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=2&sq=656&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%222%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">소리의 파편들 : 샘플링으로 시작하는 창의적 사운드 작업, 워크숍 강사, 충무로영상센터 오!재미동</a><br>
 [20251019] 모음놀이 Missing Vowels, 창작자, 소닉 노마드 페스티벌<br>
 [20251003] <a href="https://jiyeonkimreleases.bandcamp.com/album/italian-wire-suites">Italian Wire Suites 발매, Ash International</a><br>
 [20250823] <a href="https://wrhome.super.site/works/%eb%88%84%ea%b5%b0%ea%b0%80-%eb%93%a3%ea%b3%a0-%ec%9e%88%ec%96%b4-some-bodies-are-listening-too-2025">웨더리포트, '누군가 듣고 있어'전시, 제주 문화공간 양</a> <br> 
@@ -7,7 +7,7 @@
 
 ---
 [20241201] <a href="https://www.youtube.com/watch?v=wwYMZSX7wZA">11 live at home, 연주</a><br>
-[20241024] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=640&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">듣는 영화 : 영화 연출을 위한 청각적 발상, 충무로영상센터 오!재미동</a><br> 
+[20241024] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=640&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">듣는 영화 : 영화 연출을 위한 청각적 발상, 워크숍 강사, 충무로영상센터 오!재미동</a><br> 
 [20241012] <a href="https://www.youtube.com/watch?v=78tpttAQPqk">음 몸 집, 연출 및 연주, 통의동 클래식</a><br>
 [20241006] <a href="https://www.biff.kr/kor/html/program/prog_view.asp?idx=75924&c_idx=406">K-Number(감독 조세영), 음악감독, 부산국제영화제 와이드앵글 섹션</a><br>
 [20241001] <a href="https://www.artbava.com/exhibit/%EC%96%B8%EC%96%B4%EC%9D%98-%EB%91%98%EB%A0%88-the-edge-of-language/">언어의 둘레 (기획 이소임), 참여작가, TINC</a><br>
