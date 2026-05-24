@@ -1,6 +1,6 @@
 [20260502] Reveil 13 Seoul, 참여작가 웨더리포트, 합정   
 [20260501] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=1FAA3FEF14464EC19&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=27&reUrl=">다큐멘터리 회생(감독 김면우), 음악감독, 전주국제영화제 한국경쟁 섹션</a><br>
-[202603] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=387939117">과학잡지 에피EPI '소리에 귀기울이는 과학' 연재 - 1화. 숲을 따라</a><br>
+[202603] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=387939117">과학잡지 에피EPI '소리에 귀기울이는 과학' 연재 - 1화 숲을 따라</a><br>
 [202603] <a href="https://spac.sfac.or.kr/reviews?reviewTy=CRITICISM">서울문화재단 SPAC 비평 '작곡하는 몸, 연주하는 텍스트 : 작곡과 연주의 경계를 돌아보기' 게재</a><br>
 
 ---
