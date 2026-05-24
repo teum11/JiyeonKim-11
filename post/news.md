@@ -1,3 +1,9 @@
+[20250502] Reveil 13 Seoul, 참여작가 웨더리포트, 합정   
+[20250501] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=1FAA3FEF14464EC19&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=27&reUrl=">회생(감독 김면우), 음악감독, 전주국제영화제 한국경쟁 섹션</a><br>
+[202503] <a href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=387939117">과학잡지 에피EPI '소리에 귀기울이는 과학' 연재 - 1화. 숲을 따라</a><br>
+[202503] <a href="https://spac.sfac.or.kr/reviews?reviewTy=CRITICISM">서울문화재단 스파크 비평 '작곡하는 몸, 연주하는 텍스트' 게재</a><br>
+---
+
 [20251023] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=2&sq=656&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%222%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">소리의 파편들 : 샘플링으로 시작하는 창의적 사운드 작업, 워크숍 강사, 충무로영상센터 오!재미동</a><br>
 [20251019] 모음놀이 Missing Vowels, 창작자, 소닉 노마드 페스티벌<br>
 [20251003] <a href="https://jiyeonkimreleases.bandcamp.com/album/italian-wire-suites">Italian Wire Suites 발매, Ash International</a><br>
