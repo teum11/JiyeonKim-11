@@ -1,4 +1,4 @@
-[20260630] 숲 속의 집 속의 숲, 11, 은평문화예술회관 숲속극장 
+[20260630] 숲 속의 집 속의 숲, 11, 은평문화예술회관 숲속극장</br> 
 [202606] <a href="https://drive.google.com/drive/folders/1JknwRJbmnyP1MyZZOY3Otf8xlATfiRKA?usp=sharing">과학잡지 에피EPI '소리에 귀기울이는 과학' 연재 - 2화 사라지는 소리를 따라</a><br>
 [20260502] Reveil 13 Seoul, 참여작가 웨더리포트, 합정   
 [20260501] <a href="https://www.jeonjufest.kr/db/movieView.asp?idx=1FAA3FEF14464EC19&listGubun=MOVIELIST&sType=&sText=&sEP_NUM=27&reUrl=">다큐멘터리 회생(감독 김면우), 음악감독, 전주국제영화제 한국경쟁 섹션</a><br>
