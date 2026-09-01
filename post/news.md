@@ -1,6 +1,6 @@
 [20260915-29] <a href="https://www.ohzemidong.co.kr/education/edu_apply_view.php?mode=1&sq=681&page=1&s_txt=a%3A2%3A%7Bs%3A4%3A%22mode%22%3Bs%3A1%3A%221%22%3Bs%3A2%3A%22sq%22%3Bs%3A0%3A%22%22%3B%7D">듣기가 이끄는 영화적 상상</a>, 워크숍 강사, 충무로 오!재미동<br>
 [20260901-03] <a href="https://www.mmca.go.kr/events/eventsDetail.do?eduId=202607310001055">다원예술 쇼케이스 2026 - 귀에서 시작되었다고 들었다</a>, 공동리서치 및 퍼실리테이터, 국립현대미술관 <br> 
-[20260827] '길 위의 인문학' - 듣기 걷기 쓰기를 통해 감정에 동행하기, 강사, 선유도서관 <br> 
+[20260827] <a href="https://www.ydplib.or.kr/sylib/lectureDetail.do?lectureIdx=13765&manageCd=CC">'길 위의 인문학' - 듣기 걷기 쓰기를 통해 감정에 동행하기</a>, 강사, 선유도서관 <br> 
 [202607-08] 토지문화관 창작실 입주 <br> 
 [20260630] 숲 속의 집 속의 숲, 11, 은평문화예술회관 숲속극장<br> 
 [202606] <a href="https://drive.google.com/drive/folders/1JknwRJbmnyP1MyZZOY3Otf8xlATfiRKA?usp=sharing">과학잡지 에피EPI '소리에 귀기울이는 과학' 연재 - 2화 사라지는 소리를 따라</a><br>
